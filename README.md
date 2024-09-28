@@ -37,3 +37,5 @@ Default flags are:
 ```bash
 ./twenty_four_game -d 0 -e 1
 ```
+
+### Have fun playing!
